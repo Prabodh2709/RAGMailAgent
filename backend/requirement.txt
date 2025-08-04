@@ -1,0 +1,9 @@
+python-dotenv
+langchain_groq
+langchain_core
+chromadb
+uuid
+pandas
+langchain_community
+fastapi 
+uvicorn

@@ -1,0 +1,10 @@
+Project,Description,Tech Stack
+MetaCognition Tracker,"Built a full-stack platform to evaluate metacognition — 'thinking about thinking' — through interactive tasks. Implemented backend algorithms to assess self-awareness and reasoning accuracy from user decisions","Angular, Node.js, Python, MySQL"
+Sassy Bot,"Built SassyBot, a conversational AI assistant capable of generating smart, context-aware responses. Designed to deliver engaging, real-time interactions using locally run language models","Ollama, LLMs, React.js, Python, OpenAI"
+Cold Email,"Developed a tool that generates personalized cold emails for recruiters by analyzing job postings and highlighting matching skills and projects. It automates outreach by aligning candidate experience with job requirements","Ollama, LLMs, React.js, Python, Groq, Chromadb, Langchain"
+Payment Gateway Migration,"Reduced payment processing costs by 20% by migrating the North American gateway from Adyen to Braintree; improved reliability across 100K+ monthly payments.","Braintree, Node.js, AWS Lambda, React.js"
+Apple Pay Integration,"Led the rollout of Apple Pay, achieving 50% user adoption in the first week. Used Braintree’s tokenization APIs, AWS Lambda for processing, and React for UI.","Apple Pay, Braintree, Node.js, AWS Lambda, React.js"
+Checkout Reconciliation System,"Lowered cart-to-order failures by 90% by building automated reconciliation logic using serverless workflows and queue-based retry mechanisms.","AWS Step Functions, DynamoDB, AWS SQS"
+Regional Payment Enablement,"Enabled global and localized payments like Klarna Pay and Bancontact across 10+ EU markets, enhancing secure transactions and user accessibility.","Klarna, Bancontact, Cartes Bancaires, Apple Pay,Node.js, Adyen"
+PCI IVR Payment System,"Integrated 3 PCI-compliant IVR payment flows via PCIPAL APIs, enabling secure keypad-based payments for 1K+ monthly users.","PCIPAL, Node.js, AWS, Adyen, Braintree"
+Multi-Region Payment Portals,"Led development of 6 customer-facing payment portals, enabling secure payments for 100K+ users across 20+ countries.","React.js, Node.js, DynamoDB"
