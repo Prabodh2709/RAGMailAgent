@@ -7,3 +7,5 @@ pandas
 langchain_community
 fastapi 
 uvicorn
+requests
+beautifulsoup4
